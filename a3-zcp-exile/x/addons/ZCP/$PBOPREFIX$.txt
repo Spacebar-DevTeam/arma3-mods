@@ -1,0 +1,7 @@
+//<'a3_zcp_exile.pbo' properties via Mikero's dos tools, dll version 9.89>
+prefix=a3_zcp_exile\x\addons\ZCP;
+Mikero=DePbo.dll.9.89;
+pboprefix=x\addons\ZCP;
+version=25021619;
+//PboType=Arma Addon;
+//</properties>
